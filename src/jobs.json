@@ -1,0 +1,144 @@
+{
+  "jobs": [
+    {
+      "type": "Full-Time",
+      "title": "Front-End Engineer (NEXTJS)",
+      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "$70K - $80K",
+      "location": "Miami, FL",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      },
+      "id": "2"
+    },
+    {
+      "type": "Full-Time",
+      "title": "Full Stack Vue Developer",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "salary": "$100K - $125K",
+      "location": "Atlanta, GA",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      },
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "title": "Vue Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "location": "Portland, OR",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "8be2",
+      "type": "Internship",
+      "title": "Celine Tillman",
+      "description": "Molestiae deserunt reprehenderit veniam.",
+      "salary": "$125K - $150K",
+      "location": "Koch Group",
+      "company": {
+        "name": "Block - Mann",
+        "description": "Leannon - Welch",
+        "contactEmail": "your.email+fakedata10620@gmail.com",
+        "contactPhone": "067-487-3921"
+      }
+    },
+    {
+      "id": "a609",
+      "type": "Internship",
+      "title": "Celine Tillman",
+      "description": "Molestiae deserunt reprehenderit veniam.",
+      "salary": "$125K - $150K",
+      "location": "Koch Group",
+      "company": {
+        "name": "Block - Mann",
+        "description": "Leannon - Welch",
+        "contactEmail": "your.email+fakedata10620@gmail.com",
+        "contactPhone": "067-487-3921"
+      }
+    },
+    {
+      "id": "47b4",
+      "type": "Internship",
+      "title": "Hank Cummerata",
+      "description": "Porro perferendis ut illo quae.",
+      "salary": "$90K - $100K",
+      "location": "Krajcik LLC",
+      "company": {
+        "name": "Kozey LLC",
+        "description": "Smitham and Sons",
+        "contactEmail": "your.email+fakedata67303@gmail.com",
+        "contactPhone": "288-271-1287"
+      }
+    },
+    {
+      "id": "b8ab",
+      "type": "Full-Time",
+      "title": "asd",
+      "description": "asd123",
+      "salary": "$50K - $60K",
+      "location": "Tarragona",
+      "company": {
+        "name": "Halvorson - Rath",
+        "description": "asdasd",
+        "contactEmail": "123123@asd.com",
+        "contactPhone": "123444444"
+      }
+    },
+    {
+      "id": "9e01",
+      "type": "Part-Time",
+      "title": "Walter Cummerata",
+      "description": "Fugit nulla est deleniti iure nihil natus aspernatur odio expedita.",
+      "salary": "$50K - $60K",
+      "location": "Runolfsdottir - Pollich",
+      "company": {
+        "name": "Bradtke, Wuckert and Schuppe",
+        "description": "Herman - Kulas",
+        "contactEmail": "your.email+fakedata21552@gmail.com",
+        "contactPhone": "186-937-9329"
+      }
+    },
+    {
+      "id": "b91e",
+      "type": "Part-Time",
+      "title": "Hugh Beahan",
+      "description": "Incidunt vitae accusantium eius nihil similique sunt dolores eos iusto.",
+      "salary": "$100K - $125K",
+      "location": "Ledner Group",
+      "company": {
+        "name": "McKenzie - Paucek",
+        "description": "Harvey, Zulauf and Hansen",
+        "contactEmail": "your.email+fakedata96344@gmail.com",
+        "contactPhone": "980-860-9228"
+      }
+    },
+    {
+      "type": "Full-Time",
+      "title": "Front-End Engineer (Vue)",
+      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "$175K - $200K",
+      "location": "Miami, FL",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "999-999-9999"
+      },
+      "id": "a38e"
+    }
+  ]
+}
